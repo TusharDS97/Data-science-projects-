@@ -20,7 +20,8 @@ This project aims to predict the prices of raw materials (minerals and metals) u
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## How to Run
-1. Clone this repository:
+Clone this repository:
+
 
 
 
